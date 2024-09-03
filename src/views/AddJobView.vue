@@ -39,7 +39,7 @@ const handleSubmit = async () => {
       >
         <form @submit.prevent="handleSubmit">
           <h2 class="text-3xl text-center font-semibold mb-6">
-            Add test2 branch New Job
+            Add to a test2 branch New Job
           </h2>
 
           <div class="mb-4">
