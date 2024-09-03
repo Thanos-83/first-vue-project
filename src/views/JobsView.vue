@@ -1,7 +1,8 @@
 <script setup>
-import JobListings from '@/components/JobListings.vue';
+import JobListings from "@/components/JobListings.vue";
 </script>
 
 <template>
-    <JobListings/>
+  <h1>Adding title in the test3 branch</h1>
+  <JobListings />
 </template>
